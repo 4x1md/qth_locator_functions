@@ -6,6 +6,8 @@ To be completed...
 
 ## QTH Locator Format
 
+![QTH locator format](https://raw.githubusercontent.com/4x5dm/qth_locator_functions/master/images/qth_locator_format.png)
+
 ```
 World (18x18 fields):
            -180° to +180°
