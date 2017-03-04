@@ -60,6 +60,8 @@ Extended squares:
 
 
 ## Links
-1. http://qthlocator.free.fr/index.php
-2. http://www.egloff.eu/googlemap_v3/carto.php
+1. http://www.jonit.com/fieldlist/maidenhead.htm
+2. https://en.wikipedia.org/wiki/Maidenhead_Locator_System
+3. http://qthlocator.free.fr/index.php
+4. http://www.egloff.eu/googlemap_v3/carto.php
 
