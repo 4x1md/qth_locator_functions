@@ -110,6 +110,26 @@ Longitude: ``` -180° + 20°*10 + 2°*7 + 5'*9 + 0.5'*1 = 34°45.5' = 34.75833 `
 
 Latitude: ``` -90° + 10°*12 + 1°*2 + 2.5'*1 + 0.25'*8 = 32°4.5' = 32.075 ```
 
+## Functions
+
+Module ```qth_locator.py``` contains the following functions:
+
+```square_to_location(qth_locator)```
+
+Converts QTH locator to latitude and longitude in decimal format.
+
+Gets QTH locator as string.
+
+Returns Tuple containing latitude and longitude as floats.
+
+```location_to_square(lat, lon)```
+
+Converts latitude and longitude in decimal format to QTH locator.
+
+Gets latitude and longitude as floats or integers.
+
+Returns QTH locator as string.
+
 ## Links
 1. http://www.jonit.com/fieldlist/maidenhead.htm
 2. https://en.wikipedia.org/wiki/Maidenhead_Locator_System
