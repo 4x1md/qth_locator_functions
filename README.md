@@ -112,9 +112,9 @@ Latitude: ``` -90° + 10°*12 + 1°*2 + 2.5'*1 + 0.25'*8 = 32°4.5' = 32.075 ```
 
 ## Functions
 
-Module ```qth_locator.py``` contains the following functions:
+Module ```qth_locator.py``` contains two functions.
 
-```square_to_location(qth_locator)```
+1. ```square_to_location(qth_locator)```
 
 Converts QTH locator to latitude and longitude in decimal format.
 
@@ -122,7 +122,7 @@ Gets QTH locator as string.
 
 Returns Tuple containing latitude and longitude as floats.
 
-```location_to_square(lat, lon)```
+2. ```location_to_square(lat, lon)```
 
 Converts latitude and longitude in decimal format to QTH locator.
 
