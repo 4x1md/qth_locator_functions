@@ -12,7 +12,9 @@ ASCII_A = 65
 ASCII_a = 97
 
 def square_to_location(qth_locator):
-    '''Converts QTH locator to latitude and longitude in decimal format.'''
+    '''Converts QTH locator to latitude and longitude in decimal format.
+    Gets QTH locator as string.
+    Returns Tuple containing latitude and longitude as floats.'''
     
     # Validate input
     assert isinstance(qth_locator, str)
@@ -66,7 +68,9 @@ def square_to_location(qth_locator):
 
 
 def location_to_square(lat, lon):
-    '''Converts latitude and longitude in decimal format to QTH locator.'''
+    '''Converts latitude and longitude in decimal format to QTH locator.
+    Gets latitude and longitude as floats.
+    Returns QTH locator as string.'''
     
     # Validate input
     assert isinstance(lat, (int, float))
