@@ -116,3 +116,13 @@ Latitude: ``` -90° + 10°*12 + 1°*2 + 2.5'*1 + 0.25'*8 = 32°4.5' = 32.075 ```
 3. http://qthlocator.free.fr/index.php
 4. http://www.egloff.eu/googlemap_v3/carto.php
 
+## Questions? Suggestions?
+You are more than welcome to contact me with any questions, suggestions or propositions regarding this project. You can:
+
+1. Visit [my QRZ.COM page](https://www.qrz.com/db/4X1MD)
+2. Visit [my Facebook profile](https://www.facebook.com/Dima.Meln)
+3. Write me an email to iosaaris =at= gmail dot com
+
+73 de 4X1MD
+
+
